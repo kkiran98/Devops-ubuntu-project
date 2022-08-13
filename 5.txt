@@ -1,1 +1,3 @@
 larn ubuntu through git 
+
+lts fin out
